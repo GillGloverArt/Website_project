@@ -38,6 +38,23 @@
 }
 
 
+#menu-10 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-10 .nav-link {
+  font-size: 24px;
+  font-family: 'Playfair Display', sans-serif;
+}
+#menu-10 .navbar-brand {
+  font-size: 30px;
+  font-family: 'Playfair Display', sans-serif;
+}
+#social-buttons2-12 .mbr-section-title {
+  text-align: left;
+  color: #ffffff;
+}
+
+
 #menu-g .navbar-toggler {
   color: #ffffff;
 }
@@ -50,6 +67,26 @@
   font-family: 'Playfair Display', sans-serif;
 }
 #social-buttons2-i .mbr-section-title {
+  text-align: left;
+  color: #ffffff;
+}
+
+
+#menu-1l .navbar-toggler {
+  color: #ffffff;
+}
+#menu-1l .nav-link {
+  font-size: 24px;
+  font-family: 'Playfair Display', sans-serif;
+}
+#menu-1l .navbar-brand {
+  font-size: 30px;
+  font-family: 'Playfair Display', sans-serif;
+}
+#msg-box1-1o H2 {
+  text-align: left;
+}
+#social-buttons2-1q .mbr-section-title {
   text-align: left;
   color: #ffffff;
 }
@@ -89,55 +126,18 @@
 }
 
 
-#menu-v .navbar-toggler {
+#menu-20 .navbar-toggler {
   color: #ffffff;
 }
-#menu-v .nav-link {
+#menu-20 .nav-link {
   font-size: 24px;
   font-family: 'Playfair Display', sans-serif;
 }
-#menu-v .navbar-brand {
+#menu-20 .navbar-brand {
   font-size: 30px;
   font-family: 'Playfair Display', sans-serif;
 }
-#social-buttons2-x .mbr-section-title {
-  text-align: left;
-  color: #ffffff;
-}
-
-
-#menu-10 .navbar-toggler {
-  color: #ffffff;
-}
-#menu-10 .nav-link {
-  font-size: 24px;
-  font-family: 'Playfair Display', sans-serif;
-}
-#menu-10 .navbar-brand {
-  font-size: 30px;
-  font-family: 'Playfair Display', sans-serif;
-}
-#social-buttons2-12 .mbr-section-title {
-  text-align: left;
-  color: #ffffff;
-}
-
-
-#menu-1l .navbar-toggler {
-  color: #ffffff;
-}
-#menu-1l .nav-link {
-  font-size: 24px;
-  font-family: 'Playfair Display', sans-serif;
-}
-#menu-1l .navbar-brand {
-  font-size: 30px;
-  font-family: 'Playfair Display', sans-serif;
-}
-#msg-box1-1o H2 {
-  text-align: left;
-}
-#social-buttons2-1q .mbr-section-title {
+#social-buttons2-23 .mbr-section-title {
   text-align: left;
   color: #ffffff;
 }
@@ -155,23 +155,6 @@
   font-family: 'Playfair Display', sans-serif;
 }
 #social-buttons2-1x .mbr-section-title {
-  text-align: left;
-  color: #ffffff;
-}
-
-
-#menu-20 .navbar-toggler {
-  color: #ffffff;
-}
-#menu-20 .nav-link {
-  font-size: 24px;
-  font-family: 'Playfair Display', sans-serif;
-}
-#menu-20 .navbar-brand {
-  font-size: 30px;
-  font-family: 'Playfair Display', sans-serif;
-}
-#social-buttons2-23 .mbr-section-title {
   text-align: left;
   color: #ffffff;
 }
@@ -206,6 +189,23 @@
   font-family: 'Playfair Display', sans-serif;
 }
 #social-buttons2-2f .mbr-section-title {
+  text-align: left;
+  color: #ffffff;
+}
+
+
+#menu-v .navbar-toggler {
+  color: #ffffff;
+}
+#menu-v .nav-link {
+  font-size: 24px;
+  font-family: 'Playfair Display', sans-serif;
+}
+#menu-v .navbar-brand {
+  font-size: 30px;
+  font-family: 'Playfair Display', sans-serif;
+}
+#social-buttons2-x .mbr-section-title {
   text-align: left;
   color: #ffffff;
 }
