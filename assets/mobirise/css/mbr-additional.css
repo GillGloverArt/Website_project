@@ -66,9 +66,6 @@
   font-size: 30px;
   font-family: 'Playfair Display', sans-serif;
 }
-#msg-box1-1f H2 {
-  text-align: left;
-}
 #social-buttons2-n .mbr-section-title {
   text-align: left;
   color: #ffffff;
@@ -141,6 +138,74 @@
   text-align: left;
 }
 #social-buttons2-1q .mbr-section-title {
+  text-align: left;
+  color: #ffffff;
+}
+
+
+#menu-1u .navbar-toggler {
+  color: #ffffff;
+}
+#menu-1u .nav-link {
+  font-size: 24px;
+  font-family: 'Playfair Display', sans-serif;
+}
+#menu-1u .navbar-brand {
+  font-size: 30px;
+  font-family: 'Playfair Display', sans-serif;
+}
+#social-buttons2-1x .mbr-section-title {
+  text-align: left;
+  color: #ffffff;
+}
+
+
+#menu-20 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-20 .nav-link {
+  font-size: 24px;
+  font-family: 'Playfair Display', sans-serif;
+}
+#menu-20 .navbar-brand {
+  font-size: 30px;
+  font-family: 'Playfair Display', sans-serif;
+}
+#social-buttons2-23 .mbr-section-title {
+  text-align: left;
+  color: #ffffff;
+}
+
+
+#menu-26 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-26 .nav-link {
+  font-size: 24px;
+  font-family: 'Playfair Display', sans-serif;
+}
+#menu-26 .navbar-brand {
+  font-size: 30px;
+  font-family: 'Playfair Display', sans-serif;
+}
+#social-buttons2-29 .mbr-section-title {
+  text-align: left;
+  color: #ffffff;
+}
+
+
+#menu-2c .navbar-toggler {
+  color: #ffffff;
+}
+#menu-2c .nav-link {
+  font-size: 24px;
+  font-family: 'Playfair Display', sans-serif;
+}
+#menu-2c .navbar-brand {
+  font-size: 30px;
+  font-family: 'Playfair Display', sans-serif;
+}
+#social-buttons2-2f .mbr-section-title {
   text-align: left;
   color: #ffffff;
 }
