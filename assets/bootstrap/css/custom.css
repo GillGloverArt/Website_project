@@ -14,3 +14,10 @@ a:focus{outline:dotted thin;outline:-webkit-focus-ring-color auto;outline-offset
   color:white;
   text-decoration:none
 }
+
+#index-btn {
+  background-color: rgb(197,121,57);
+  outline-color: black;
+}
+
+#index-btn:hover{background-color: black;}
