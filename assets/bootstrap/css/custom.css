@@ -1,0 +1,23 @@
+
+.card-header {
+  background-color: rgb(0,102,75);
+}
+
+
+
+a{color:black;text-decoration:none}
+a:focus,a:hover{color:#e2a312;text-decoration:underline}
+a:focus{outline:dotted thin;outline:-webkit-focus-ring-color auto;outline-offset:-2px}
+
+
+.card-header, a {
+  color:white;
+  text-decoration:none
+}
+
+#index-btn {
+  background-color: rgb(197,121,57);
+  outline-color: black;
+}
+
+#index-btn:hover{background-color: black;}
